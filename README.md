@@ -1,5 +1,11 @@
 <h2>Alex Khmelev</h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=JS+developer;6%2B+years+of+experience" alt="Typing SVG" /></a>
+
+<details open> 
+  <summary><h2>Tech Stack</h2></summary>
+  
+</details>
+
 <!--
 **mdgfox/mdgfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
