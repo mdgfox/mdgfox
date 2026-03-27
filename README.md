@@ -1,19 +1,32 @@
-## Alex Khmelev
+<a href="https://www.linkedin.com/in/alex-khmelev/" target="_blank">
+  <img src="assets/name.svg" alt="Alex Khmelev" />
+</a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&height=30&lines=JS+developer;6%2B+years+of+experience" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=9876AA&center=false&vCenter=true&width=850&height=50&lines=JavaScript+%26+TypeScript+Game+Developer;Building+high-performance+games+for+the+web;6%2B+Years+of+Professional+Experience" />
 
-### My Tech Stack
-<div>
-  <img alt="js logo" src="https://github.com/mdgfox/mdgfox/blob/main/assets/js.png?raw=true" width="100">
-  <img alt="ts logo" src="https://github.com/mdgfox/mdgfox/blob/main/assets/ts.png?raw=true" width="100">
-  <img alt="node logo" src="https://github.com/mdgfox/mdgfox/blob/main/assets/node.png?raw=true" width="100">
-</div>
-<div>
-  <img alt="pixijs logo" src="https://github.com/mdgfox/mdgfox/blob/main/assets/pixijs.png?raw=true" width="100">
-  <img alt="react logo" src="https://github.com/mdgfox/mdgfox/blob/main/assets/react.png?raw=true" width="100">
-  <img alt="mongo logo" src="https://github.com/mdgfox/mdgfox/blob/main/assets/mongo.png?raw=true" width="100">
-</div>
+<br>
 
+<p align="center">
+  <img src="assets/skils_title.svg" alt="My Tech Stack Title" />
+</p>
+
+<p align="center">
+  <img src="assets/skils.svg" alt="My Tech Stack" width="850">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&color=808080&center=true&vCenter=true&width=620&height=30&lines=//+Competitive+Programming+Stats;" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/mdgfox/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&color=FFC66D&center=true&vCenter=true&width=620&height=40&lines=LeetCode+Profile;" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mdgfox?theme=catppuccinMocha&font=JetBrains%20Mono&colors=%23212121%2C0%2C%23CC7832%2C%23A9B7C6%2C%236A8759%2C%23FFC66D%2C%23CC7832%2C%23808080&border=0&radius=15" alt="LeetCode Stats" />
+</p>
 
 <!--
 **mdgfox/mdgfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
