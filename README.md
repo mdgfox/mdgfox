@@ -15,17 +15,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&color=808080&center=true&vCenter=true&width=620&height=30&lines=//+Competitive+Programming+Stats;" />
-</p>
-
-<p align="center">
   <a href="https://leetcode.com/mdgfox/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&color=808080&center=true&vCenter=true&width=620&height=30&lines=//+Competitive+Programming+Stats;" />
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&color=FFC66D&center=true&vCenter=true&width=620&height=40&lines=LeetCode+Profile;" />
+    <img src="https://leetcard.jacoblin.cool/mdgfox?theme=catppuccinMocha&font=JetBrains%20Mono&colors=%23212121%2C0%2C%23CC7832%2C%23A9B7C6%2C%236A8759%2C%23FFC66D%2C%23CC7832%2C%23808080&border=0&radius=15" alt="LeetCode Stats" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mdgfox?theme=catppuccinMocha&font=JetBrains%20Mono&colors=%23212121%2C0%2C%23CC7832%2C%23A9B7C6%2C%236A8759%2C%23FFC66D%2C%23CC7832%2C%23808080&border=0&radius=15" alt="LeetCode Stats" />
 </p>
 
 <!--
