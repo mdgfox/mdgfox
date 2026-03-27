@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="50">
+  <style>
+    @font-face {
+      font-family: 'JetBrains Mono';
+      src: url('https://fonts.gstatic.com/s/jetbrainsmono/v18/t6fq2o-ey_69DpCnYn_S87bFf6S6vOeyfC8_Ew.woff2') format('woff2');
+    }
+    .name { 
+      font-family: 'JetBrains Mono', monospace; 
+      font-weight: 700; 
+      font-size: 28px; 
+      fill: #CC7832; 
+    }
+  </style>
+  <text x="0" y="35" class="name">Alex Khmelev</text>
+</svg>
