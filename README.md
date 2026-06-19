@@ -4,14 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=9876AA&center=false&vCenter=true&width=850&height=50&lines=Unity+%26+JavaScript+%26+TypeScript+Game+Developer;Building+high-performance+games+/+applications;6%2B+Years+of+Professional+Experience" />
 
-<br>
-
 <p align="center">
   <img src="assets/skils_title.svg" alt="My Tech Stack Title" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,unity,html,css,js,ts,mongodb,githubactions,jenkins,firebase,npm,nodejs,react,tailwind,threejs,nestjs,nextjs,yarn,rollup,jest&perline=10" width="800" />
+  <img src="https://skillicons.dev/icons?i=unity,html,css,js,ts,git,githubactions,jenkins,mongodb,firebase,npm,nodejs,react,tailwind,threejs,nestjs,nextjs,yarn,rollup,jest&perline=10" width="800" />
 </p>
 
 <p align="center">
